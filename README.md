@@ -31,7 +31,7 @@ Following will be expected:
 - On your new branch add your sql file in an empty file called "my_submission.sql"
 - On your new branch add a link to your Data studio dashboard --> **here**
 
-- before merging create a pull request 
+- before merging create a pull request for your branch onto the main branch
 
 ## Questions?
 If you have questions about the task or would like us to further specify some of the things written above, you can contact the person who gave you the assignment.
