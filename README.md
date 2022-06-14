@@ -27,11 +27,9 @@ The data is a hashed dataset from an existing product using Snowplow. This produ
 ## Submission
 Following will be expected:
 - git clone this repository
-- create a new branch with label "**case-submission-YOURNAME**"
-- On your new branch add your sql file in an empty file called "my_submission.sql"
-- On your new branch add a link to your Data studio dashboard --> **here**
-
-- before merging create a pull request for your branch onto the main branch
+- Add your sql file in an empty file called "my_submission.sql"
+- Add a link to your Data studio dashboard --> **here**
+- Publish this in your own Github account and share it with **brian.ye@visma.com**
 
 ## Questions?
 If you have questions about the task or would like us to further specify some of the things written above, you can contact the person who gave you the assignment.
