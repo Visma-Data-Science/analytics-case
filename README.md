@@ -27,7 +27,7 @@ The data is a hashed dataset from an existing product using Snowplow. This produ
 ## Submission
 Following will be expected:
 - git clone this repository
-- create a new branch with label "case-submission-<your name>"
+- create a new branch with label "**case-submission-YOURNAME**"
 - On your new branch add your sql file in an empty file called "my_submission.sql"
 - On your new branch add a link to your Data studio dashboard --> **<here>**
 
