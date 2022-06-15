@@ -28,8 +28,10 @@ The data is a hashed dataset from an existing product using Snowplow. This produ
 Following will be expected:
 - git clone this repository
 - Add your sql file in an empty file called "my_submission.sql"
-- Add a link to your Data studio dashboard --> **here**
+- Add a link to your [Google Data Studio](https://datastudio.google.com/) dashboard
 - Publish this in your own Github account and share it with **brian.ye@visma.com**
+
+During the presentation you should be able to demonstrate your SQL query, the Data Studio dashboard, and upload to Github.
 
 ## Questions?
 If you have questions about the task or would like us to further specify some of the things written above, you can contact the person who gave you the assignment.
