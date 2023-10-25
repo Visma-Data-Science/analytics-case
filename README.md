@@ -1,4 +1,4 @@
-# Recruitment assignment for Data Scientist / Data Analyst / Analytics Engineer
+# Recruitment assignment for Data Analyst
 This task is intended for candidates applying for the aforementioned analytics position. This assignment is built around some of the technologies used in Visma.
 
 We are super happy to have you considering a position within analytics. The case below should hopefully give you a little insight into some of the data you will analyze at the company.
