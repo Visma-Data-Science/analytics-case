@@ -4,7 +4,7 @@ This task is intended for candidates applying for the aforementioned analytics p
 We are super happy to have you considering a position within analytics. The case below should hopefully give you a little insight into some of the data you will analyze at the company.
 
 ## Introduction
-Visma has a central service collecting user behaviour. The reason is because there is a big focus on understanding user needs and intent. To accomplish this we utilize [Snowplow](https://github.com/snowplow) open source, Google Cloud services, and [Dataform](https://dataform.co/). A big part to deliver this offering is through Google BigQuery where all of our data is stored. BigQuery uses a SQL inspired syntax to query the data.
+Visma has a central service collecting user behaviour. The reason is because there is a big focus on understanding user needs and intent. To accomplish this we utilize [Snowplow](https://github.com/snowplow) open source, Google Cloud services, and [Dataform](https://dataform.co/). A big part to deliver this offering is through Google BigQuery where most of our data is stored. BigQuery uses a SQL inspired syntax to query the data.
 
 What is Snowplow? All in all, it is a service that tracks, collects and stores behavioral data in a database (read more [here](https://snowplowanalytics.com/)).
 
