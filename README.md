@@ -1,5 +1,5 @@
 # Recruitment assignment for Data Scientist / Data Analyst / Analytics Engineer
-This task is intended for candidates applying for the aforementioned analytics position in the product insights team at the data science tech hub. This assignment is built around some of the technologies used in our production environment.
+This task is intended for candidates applying for the aforementioned analytics position. This assignment is built around some of the technologies used in Visma.
 
 We are super happy to have you considering a position within analytics. The case below should hopefully give you a little insight into some of the data you will analyze at the company.
 
@@ -20,7 +20,7 @@ The data is a hashed dataset from an existing product using Snowplow. This produ
 - How many sessions?
 - What is the time spent per page_url (hashed)?
 - How many customers are active day by day?
-- Whats the activity for different user roles (user types)
+- What is the activity for different user roles (user types)
 
 **Visualize your results** in Data Studio. Bring out data you think is interesting to see.
 
