@@ -1,10 +1,10 @@
 # Recruitment assignment for Data Scientist / Data Analyst / Analytics Engineer
 This task is intended for candidates applying for the aforementioned analytics position in the product insights team at the data science tech hub. This assignment is built around some of the technologies used in our production environment.
 
-We are super happy to have you considering a position in our team. The case below should hopefully give you a little insight into some of the most common challenges we face as a team.
+We are super happy to have you considering a position within analytics. The case below should hopefully give you a little insight into some of the data you will analyze at the company.
 
 ## Introduction
-The data science department helps Visma teams with various data science related tasks, where our team focuses on delivering *product insights* at scale. To accomplish this we utilize [Snowplow](https://github.com/snowplow) open source, Google Cloud services, and [Dataform](https://dataform.co/). A big part to deliver this offering is through Google BigQuery where all of our data is stored. BigQuery uses a SQL inspired syntax to query the data.
+Visma has a central service collecting user behaviour. The reason is because there is a big focus on understanding user needs and intent. To accomplish this we utilize [Snowplow](https://github.com/snowplow) open source, Google Cloud services, and [Dataform](https://dataform.co/). A big part to deliver this offering is through Google BigQuery where all of our data is stored. BigQuery uses a SQL inspired syntax to query the data.
 
 What is Snowplow? All in all, it is a service that tracks, collects and stores behavioral data in a database (read more [here](https://snowplowanalytics.com/)).
 
